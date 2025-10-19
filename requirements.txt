@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+httpx
+pandas
+matplotlib
+jinja2
+python-dotenv
